@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Go-pulkit
 - 👀 I’m interested in Spatial Data Science and it's applications in Environmental Studies
-- 🌱 I’m currently learning Machine Learning foundations on coursera
+- 🌱 I’m currently developing Machine Learning skills
 - 📫 How to reach me : email me at pulkit18rjc@gmail.com
 
 <!---
